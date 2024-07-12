@@ -5,3 +5,5 @@ if z == 'lets go':
     print('its a TRAP!')
 else:
     print('go fuck urself')
+
+#твой код - хуйня, переделывай
